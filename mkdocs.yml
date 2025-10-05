@@ -4,7 +4,7 @@ site_author: PsycholCN
 site_url: https://psychol.cn
 
 repo_name: PsycholCN/Wiki
-repo_url: https://github.com/PsycholCN-Dev/Wiki.git
+repo_url: https://github.com/PsycholCN-Dev/Wiki
 
 copyright: Copyright &copy; 2025 ~ now | PsycholCN
 
@@ -75,5 +75,5 @@ nav:
       - 首页: index.md
       - 关于: about.md
     - 疾病:
-      - 精神疾病: diseases/index.md
+      - 疾病: diseases/index.md
       - 双相情感障碍: diseases/bipolar_disorder.md
