@@ -42,3 +42,7 @@ ICD-11将双相分为两个亚型：
 双相情感障碍I型的一级亲属患双相的可能性较对照组高8~18倍，患抑郁症的可能性较对照组高2~10倍。
 
 如果父母双方有一人患I型双相，其子女有25%的机会患心境障碍。如果父母双方都患有，则子女有50~75%的机会患心境障碍。
+
+## 治疗
+
+通常，双相情感障碍会使用**心境稳定剂（如[碳酸锂](../medicines/lithium.md)、[丙戊酸钠](../medicines/sodium_valproate.md)、[丙戊酸镁](../medicines/magnesium_valpoate.md)、[拉莫三嗪](../medicines/lamotrigine.md)、[卡马西平](../medicines/carbamazepine.md)等）**为主，在允许的情况下合用**抗抑郁药（如[舍曲林](../medicines/sertraline.md)、[西酞普兰](../medicines/citalopram.md)、[文拉法辛](../medicines/venlafaxine.md)等）**。此外，抗精神病药对于稳定情绪、应对伴发的[精神病性症状](./psychosis.md)、对抗（轻）躁狂等也能起到一定作用。
