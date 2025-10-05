@@ -72,4 +72,6 @@ theme:
 
 nav:
     - 首页: index.md
+    - 疾病: diseases/index.md
+      - 双相情感障碍: diseases/bipolar_disorder.md
     - 关于: about.md
