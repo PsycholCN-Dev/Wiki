@@ -71,8 +71,9 @@ theme:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
 nav:
-    - 首页: index.md
+    - 首页: 
+      - 首页: index.md
+      - 关于: about.md
     - 疾病:
       - 精神疾病: diseases/index.md
       - 双相情感障碍: diseases/bipolar_disorder.md
-    - 关于: about.md
