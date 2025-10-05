@@ -67,7 +67,6 @@ theme:
     text: Roboto
     code: Roboto Mono
   plugins:
-    - tags
     - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
