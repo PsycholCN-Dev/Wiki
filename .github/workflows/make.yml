@@ -12,10 +12,9 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - name: Deploy
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          mkdocs gh-deploy --force
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} 
+          publish_dir: ./site
+          commit_message: "Auto deploy site from GitHub Actions"
